@@ -1,0 +1,195 @@
+{
+  "personal_info": {
+    "first_name": "Nisha",
+    "last_name": "Kumari",
+    "email": "nk0766293@gmail.com",
+    "phone": "+91 82100 36602",
+    "address": "Greater Noida, Uttar Pradesh, 201306",
+    "about": "A skilled software engineer with 3+ years of hands-on experience in C#, .NET, ASP.NET, and MVC development, complemented by solid proficiency in SQL Server. Specializes in designing, developing, and deploying robust applications leveraging these technologies. Expertise includes creating responsive, intuitive user interfaces with HTML, CSS, and JavaScript. Proficient in Visual Studio, adept at Agile environments, and utilizes tools like Jira for enhanced project efficiency. Committed to ongoing professional growth, keeps pace with emerging trends and advancements in the industry."
+  },
+  "social_links": [
+    {
+      "link": "https://linkedin.com/in/nisha-kumari-063432207",
+      "name": "LinkedIn",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "link": "https://github.com/Nisha8200",
+      "name": "GitHub",
+      "icon": "fab fa-github"
+    },
+    {
+      "link": "https://instagram.com/nishagupta6979",
+      "name": "Instagram",
+      "icon": "fab fa-instagram"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Associate Software Engineer",
+      "company": "Infor (India) Private Limited",
+      "about" : "Infor is a global leader in business cloud software products for companies in industry specific markets. Infor builds complete industry suites in the cloud.",
+      "location": "Hyderabad, Telangana, India",
+      "from": "Dec 2023",
+      "to": "Present",
+      "description": "Worked on backend applications"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Capgemini",
+      "location": "Hyderabad, Telangana, India",
+      "about" : "Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society.",
+      "from": "Sep 2021",
+      "to": "Dec 2023",
+      "description": "Worked on .NET MVC applications"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors (BCA)",
+      "major": "Computer Applications",
+      "name": "Arcade Business College",
+      "from_year": "Jul 2015",
+      "to_year": "May 2018",
+      "location": "Patna, Bihar, India",
+      "about": "Started in 1998, Arcade Business College is the premier institute to offer professional education or courses to the students of Bihar.",
+      "cgpa": "69.90 %"
+    },
+    {
+      "degree": "Masters (MCA)",
+      "major": "Computer Applications",
+      "name": "Banasthali Vidyapeeth",
+      "from_year": "Jul 2018",
+      "to_year": "May 2021",
+      "location": "Jaipur, Rajasthan",
+      "about": "Banasthali Vidyapith, also known as Banasthali University, is a private university located in the Tonk district in the Indian state of Rajasthan.",
+      "cgpa": "8.0"
+    }
+  ],
+  "programming": [
+    {
+      "name": "Asp.Net",
+      "icon": "assets/img/asp.net.png"
+    },
+    {
+      "name": "Asp.Net Core",
+      "icon": "assets/img/asp_net_core.png"
+    },
+    {
+      "name": "Asp.Net MVC",
+      "icon": "assets/img/asp_net_mvc.png"
+    },
+    {
+      "name": "CSS",
+      "icon": "assets/img/css.png"
+    },
+    {
+      "name": "HTML",
+      "icon": "assets/img/html5.png"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "assets/img/javascript.png"
+    },
+    {
+      "name": "Web API",
+      "icon": "assets/img/web_api.png"
+    },
+    {
+      "name": "C#",
+      "icon": "assets/img/c_sharp.png"
+    },
+    {
+      "name": "SQL Server",
+      "icon": "assets/img/microsoft-sql-server.png"
+    },
+    {
+      "name": "PostgreSQK",
+      "icon": "assets/img/postgresql.png"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Visual Studio",
+      "icon": "assets/img/visual.png"
+    },
+    {
+      "name": "SSMS",
+      "icon": "assets/img/ssms.png"
+    },
+    {
+      "name": "GitHub",
+      "icon": "assets/img/github.png"
+    },
+    {
+      "name": "Git",
+      "icon": "assets/img/git.png"
+    },
+    {
+      "name": "Postman",
+      "icon": "assets/img/postman.png"
+    },
+    {
+      "name": "Jira",
+      "icon": "assets/img/jira.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "This is a project description for Project 1 which is a web application built using Java and Spring Boot.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "link": "www.project1.com",
+      "github": "www.github.com/project1"
+    },
+    {
+      "name": "Project 2",
+      "description": "This is another project",
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "link": "www.project2.com",
+      "github": "www.github.com/project2"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Java Certification",
+      "date": "May 2020"
+    },
+    {
+      "name": "Python Certification",
+      "date": "June 2020"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Hindi",
+      "level": "Native"
+    }
+  ],
+  "interests": [
+    "Reading",
+    "Traveling",
+    "Dancing"
+  ],
+  "website": {
+    "font-family": "",
+    "font-size": "",
+    "font-weight": "",
+    "line-height": "",
+    "color": "",
+    "text-align": "",
+    "background-color": ""
+  }
+}
